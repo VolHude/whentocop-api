@@ -1,0 +1,21 @@
+{
+  "name": "whentocop-api",
+  "version": "1.0",
+  "description": "JavaScript library to Interact with the When to cop API",
+  "main": "index.js",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/VolHude/when-to-cop-api.git"
+  },
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VolHude",
+  "license": "ISC",
+  "engines": {
+      "node": ">=15.0.0"
+  },
+  "dependencies": {
+      "node-fetch": "^2.6.9"
+  }
+}
